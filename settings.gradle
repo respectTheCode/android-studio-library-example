@@ -1,1 +1,2 @@
-include ':MyApp', ':MyLib'
+include ':SubProjects:MyApp'
+include ':SubProjects:MyLib'

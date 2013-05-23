@@ -1,4 +1,4 @@
 dependencies {
-    compile project(":MyLib")
-    compile project(":MyApp")
+    compile project(":SubProjects:MyLib")
+    compile project(":SubProjects:MyApp")
 }

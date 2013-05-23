@@ -22,26 +22,26 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/MyLib">
+    <content url="file://$MODULE_DIR$/SubProjects/MyLib">
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/aidl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/aidl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/res" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/r/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/rs/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/src/main/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/r/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/buildConfig/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/debug/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/main/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/build/res/rs/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/aidl/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/res/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/aidl/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/instrumentTest/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/aidl/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MyLib/src/instrumentTest/res" isTestSource="true" />
@@ -56,15 +56,18 @@
       <sourceFolder url="file://$MODULE_DIR$/MyLib/build/source/buildConfig/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/apk" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/assets" />
-      <excludeFolder url="file://$MODULE_DIR$/MyLib/build/bundles" />
-      <excludeFolder url="file://$MODULE_DIR$/MyLib/build/classes" />
-      <excludeFolder url="file://$MODULE_DIR$/MyLib/build/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/exploded-bundles" />
-      <excludeFolder url="file://$MODULE_DIR$/MyLib/build/incremental" />
-      <excludeFolder url="file://$MODULE_DIR$/MyLib/build/libs" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/MyLib/build/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/libs" />
+    </content>
+    <content url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/aidl/debug">
+      <sourceFolder url="file://$MODULE_DIR$/SubProjects/MyLib/build/source/aidl/debug" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Android 4.2.2" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

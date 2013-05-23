@@ -1,11 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="467d7a41-3828-4845-ae78-5a17d099fc37" name="Default" comment="" />
+    <list default="true" id="467d7a41-3828-4845-ae78-5a17d099fc37" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/apk/MyApp-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/classes/debug/com/example/myapp/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/aidl/debug/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/aidl/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/aidl/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/dex/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/dex/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/libs/MyApp-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/libs/MyApp-debug.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/manifests/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/values-v11/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/values-v14/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/res/all/debug/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/source/buildConfig/debug/com/example/myapp/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/build/source/r/debug/com/example/myapp/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/java/com/example/myapp/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values-sw720dp-land/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyApp/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/values-sw720dp-land/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/values-v11/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/values-v14/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/bundles/debug/res/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/aidl/debug/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/aidl/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/aidl/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/source/buildConfig/debug/com/apppress/apdk/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/build/source/r/debug/com/apppress/apdk/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/java/com/example/mylib/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values-sw720dp-land/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyLib/src/main/res/values/styles.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApp-MyApp.iml" afterPath="$PROJECT_DIR$/MyApp-MyApp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyLib.iml" afterPath="$PROJECT_DIR$/MyLib.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="MyApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/AndroidManifest.xml" changelist="467d7a41-3828-4845-ae78-5a17d099fc37" time="1369333055150" ignored="false" />
     <file path="/build.gradle" changelist="467d7a41-3828-4845-ae78-5a17d099fc37" time="1369333563168" ignored="false" />
+    <file path="$PROJECT_DIR$/SubProjects/MyApp/src/main/AndroidManifest.xml" changelist="467d7a41-3828-4845-ae78-5a17d099fc37" time="1369334862002" ignored="false" />
+    <file path="/Dummy.txt" changelist="467d7a41-3828-4845-ae78-5a17d099fc37" time="1369335466686" ignored="false" />
+    <file path="/settings.gradle" changelist="467d7a41-3828-4845-ae78-5a17d099fc37" time="1369335535667" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +186,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLib/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+            <state line="2" column="17" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,41 +197,41 @@
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="1" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyApp/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="411" selection-end="411" vertical-scroll-proportion="0.6325301">
+            <state line="2" column="33" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLib/build.gradle">
+        <entry file="file://$PROJECT_DIR$/SubProjects/MyApp/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="27" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+            <state line="6" column="5" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.060240965">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLib/src/main/java/com/example/mylib/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/src/main/java/com/example/mylib/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="44" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
@@ -144,12 +246,22 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/MyLib/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/MyApp/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/SubProjects/MyLib/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
       </list>
     </option>
   </component>
@@ -159,7 +271,7 @@
     <option name="width" value="1245" />
     <option name="height" value="904" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -214,6 +326,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SubProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MyLib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -225,6 +341,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SubProjects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -250,6 +370,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SubProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MyApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -260,16 +384,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="recentsLimit" value="5" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SubProjects" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.MyApp-MyApp">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -377,17 +510,34 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="467d7a41-3828-4845-ae78-5a17d099fc37" name="Default" comment="" />
       <created>1369332334305</created>
       <updated>1369332334305</updated>
-      <workItem from="1369332352112" duration="2118000" />
+      <workItem from="1369332352112" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2118000" />
+    <option name="totallyTimeSpent" value="3208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="508" y="22" width="1245" height="904" extended-state="0" />
@@ -477,51 +627,51 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyLib/build/bundles/debug/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/build/bundles/debug/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLib/src/main/java/com/example/mylib/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/src/main/java/com/example/mylib/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="44" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLib/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLib/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+        <state line="2" column="17" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
+        <state line="2" column="33" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyApp/build.gradle">
+    <entry file="file://$PROJECT_DIR$/SubProjects/MyApp/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="411" selection-end="411" vertical-scroll-proportion="0.6325301">
+        <state line="6" column="5" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubProjects/MyLib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.060240965">
           <folding />
         </state>
       </provider>
