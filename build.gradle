@@ -1,4 +1,4 @@
-dependencies {
+/*dependencies {
     compile project(":SubProjects:MyLib")
     compile project(":SubProjects:MyApp")
-}
+}*/
